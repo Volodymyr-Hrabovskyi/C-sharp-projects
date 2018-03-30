@@ -1,0 +1,9 @@
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_LAB1\PRO_LAB1\bin\Debug\PRO_LAB1.exe.config
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_LAB1\PRO_LAB1\bin\Debug\PRO_LAB1.exe
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_LAB1\PRO_LAB1\bin\Debug\PRO_LAB1.pdb
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_LAB1\PRO_LAB1\obj\Debug\PRO_LAB1.csprojResolveAssemblyReference.cache
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_LAB1\PRO_LAB1\obj\Debug\PRO_LAB1.Form1.resources
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_LAB1\PRO_LAB1\obj\Debug\PRO_LAB1.Properties.Resources.resources
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_LAB1\PRO_LAB1\obj\Debug\PRO_LAB1.csproj.GenerateResource.Cache
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_LAB1\PRO_LAB1\obj\Debug\PRO_LAB1.exe
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_LAB1\PRO_LAB1\obj\Debug\PRO_LAB1.pdb

@@ -1,0 +1,6 @@
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\PetShop_SoftTest\PetShop_SoftTest\bin\Debug\PetShop_SoftTest.exe.config
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\PetShop_SoftTest\PetShop_SoftTest\bin\Debug\PetShop_SoftTest.exe
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\PetShop_SoftTest\PetShop_SoftTest\bin\Debug\PetShop_SoftTest.pdb
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\PetShop_SoftTest\PetShop_SoftTest\obj\Debug\PetShop_SoftTest.csprojResolveAssemblyReference.cache
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\PetShop_SoftTest\PetShop_SoftTest\obj\Debug\PetShop_SoftTest.exe
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\PetShop_SoftTest\PetShop_SoftTest\obj\Debug\PetShop_SoftTest.pdb

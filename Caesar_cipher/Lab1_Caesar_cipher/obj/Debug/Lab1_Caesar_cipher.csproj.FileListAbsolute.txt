@@ -1,0 +1,9 @@
+c:\users\фокс\documents\visual studio 2013\Projects\Lab1_Caesar_cipher\Lab1_Caesar_cipher\bin\Debug\Lab1_Caesar_cipher.exe.config
+c:\users\фокс\documents\visual studio 2013\Projects\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\Lab1_Caesar_cipher.csprojResolveAssemblyReference.cache
+c:\users\фокс\documents\visual studio 2013\Projects\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\Lab1_Caesar_cipher.Properties.Resources.resources
+c:\users\фокс\documents\visual studio 2013\Projects\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\Lab1_Caesar_cipher.csproj.GenerateResource.Cache
+c:\users\фокс\documents\visual studio 2013\Projects\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\Lab1_Caesar_cipher.Form1.resources
+c:\users\фокс\documents\visual studio 2013\Projects\Lab1_Caesar_cipher\Lab1_Caesar_cipher\bin\Debug\Lab1_Caesar_cipher.exe
+c:\users\фокс\documents\visual studio 2013\Projects\Lab1_Caesar_cipher\Lab1_Caesar_cipher\bin\Debug\Lab1_Caesar_cipher.pdb
+c:\users\фокс\documents\visual studio 2013\Projects\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\Lab1_Caesar_cipher.exe
+c:\users\фокс\documents\visual studio 2013\Projects\Lab1_Caesar_cipher\Lab1_Caesar_cipher\obj\Debug\Lab1_Caesar_cipher.pdb

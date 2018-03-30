@@ -1,0 +1,7 @@
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_Laba3\PRO_Laba3\bin\Debug\PRO_Laba3.exe.config
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_Laba3\PRO_Laba3\bin\Debug\PRO_Laba3.exe
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_Laba3\PRO_Laba3\bin\Debug\PRO_Laba3.pdb
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_Laba3\PRO_Laba3\bin\Debug\MathNet.Numerics.dll
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_Laba3\PRO_Laba3\bin\Debug\MathNet.Numerics.xml
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_Laba3\PRO_Laba3\obj\Debug\PRO_Laba3.exe
+c:\users\фокс\documents\visual studio 2013\Projects\PRO_Laba3\PRO_Laba3\obj\Debug\PRO_Laba3.pdb

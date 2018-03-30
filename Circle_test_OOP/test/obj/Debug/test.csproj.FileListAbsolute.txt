@@ -1,0 +1,6 @@
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\test\test\bin\Debug\test.exe
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\test\test\bin\Debug\test.pdb
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\test.exe
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\test.pdb

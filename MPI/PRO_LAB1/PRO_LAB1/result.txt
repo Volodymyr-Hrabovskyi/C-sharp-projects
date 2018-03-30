@@ -1,0 +1,72 @@
+Matrix C:
+0,5
+b0:
+0,5
+Matrix y1:
+0,5
+Matrix y2:
+2
+Matrix Y3:
+0,5
+y2+y2':
+2,5
+A(y1+y2):
+1,25
+Y3^2*y2:
+0,5
+RESULT Matrix X:
+1,75
+Matrix C:
+0,5
+Matrix C:
+0,2
+Matrix C:
+0,0909090909090909
+Matrix C:
+0,0555555555555556
+b0:
+0,5
+b0:
+0,5
+b1:
+1
+b1:
+1
+Matrix y1:
+2
+Matrix y1:
+3
+Matrix y2:
+4
+Matrix y2:
+4
+Matrix Y3:
+0,5
+Matrix Y3:
+0,8
+Matrix Y3:
+0,909090909090909
+Matrix Y3:
+0,944444444444444
+y2+y2':
+6
+y2+y2':
+7
+Matrix C:
+0,5
+b0:
+0,5
+Matrix y1:
+0,5
+Matrix y2:
+2
+Matrix Y3:
+0,5
+y2+y2':
+2,5
+A(y1+y2):
+1,25
+Y3^2*y2:
+0,5
+RESULT Matrix X:
+1,75

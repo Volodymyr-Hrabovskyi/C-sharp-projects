@@ -1,0 +1,9 @@
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\KI_17_DM_Lab1\KI_17_DM_Lab1\bin\Debug\KI_17_DM_Lab1.exe.config
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\KI_17_DM_Lab1\KI_17_DM_Lab1\bin\Debug\KI_17_DM_Lab1.exe
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\KI_17_DM_Lab1\KI_17_DM_Lab1\bin\Debug\KI_17_DM_Lab1.pdb
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\KI_17_DM_Lab1\KI_17_DM_Lab1\obj\Debug\KI_17_DM_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\KI_17_DM_Lab1\KI_17_DM_Lab1\obj\Debug\KI_17_DM_Lab1.Form1.resources
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\KI_17_DM_Lab1\KI_17_DM_Lab1\obj\Debug\KI_17_DM_Lab1.Properties.Resources.resources
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\KI_17_DM_Lab1\KI_17_DM_Lab1\obj\Debug\KI_17_DM_Lab1.csproj.GenerateResource.Cache
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\KI_17_DM_Lab1\KI_17_DM_Lab1\obj\Debug\KI_17_DM_Lab1.exe
+C:\Users\фокс\Documents\Visual Studio 2013\Projects\KI_17_DM_Lab1\KI_17_DM_Lab1\obj\Debug\KI_17_DM_Lab1.pdb
